@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/about/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/boxed/</loc>
+            
+                <lastmod>2007-10-14</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/brain/</loc>
+            
+                <lastmod>2007-10-13</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/bytestring/</loc>
+            
+                <lastmod>2007-10-13</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/cabal/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/cale/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/callcc/</loc>
+            
+                <lastmod>2010-08-07</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/catamorphism/</loc>
+            
+                <lastmod>2007-10-09</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/class/</loc>
+            
+                <lastmod>2007-12-18</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/concatmap/</loc>
+            
+                <lastmod>2007-10-09</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/curry/</loc>
+            
+                <lastmod>2007-10-09</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/delimited/</loc>
+            
+                <lastmod>2010-08-10</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/doom/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/dumb/</loc>
+            
+                <lastmod>2007-11-03</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/eager-vs-lazy/</loc>
+            
+                <lastmod>2007-11-26</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/eof/</loc>
+            
+                <lastmod>2019-08-06</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/eugenio/</loc>
+            
+                <lastmod>2010-08-10</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/expected-type/</loc>
+            
+                <lastmod>2008-07-12</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/extensible/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/fib/</loc>
+            
+                <lastmod>2010-08-10</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/fixed-in-head/</loc>
+            
+                <lastmod>2007-10-13</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/foldl/</loc>
+            
+                <lastmod>2008-01-24</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/foldr/</loc>
+            
+                <lastmod>2007-10-09</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/formal/</loc>
+            
+                <lastmod>2007-10-11</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/gc/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/ghc/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/haddock/</loc>
+            
+                <lastmod>2007-10-13</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/imperative/</loc>
+            
+                <lastmod>2007-10-09</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/impossible/</loc>
+            
+                <lastmod>2007-10-14</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/io-monad/</loc>
+            
+                <lastmod>2007-10-24</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/learn-haskell/</loc>
+            
+                <lastmod>2019-08-06</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/lift-concat/</loc>
+            
+                <lastmod>2007-10-10</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/loop/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/lost/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/lost/cheezburger/</loc>
+            
+                <lastmod>2007-12-05</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/lost/flavor/</loc>
+            
+                <lastmod>2007-11-01</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/lost/gentle-intro/</loc>
+            
+                <lastmod>2008-07-02</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/lost/lazy/</loc>
+            
+                <lastmod>2007-10-09</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/lost/mismatch/</loc>
+            
+                <lastmod>2007-12-18</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/lost/monad/</loc>
+            
+                <lastmod>2007-10-09</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/lost/ndp/</loc>
+            
+                <lastmod>2008-10-02</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/lost/pointless/</loc>
+            
+                <lastmod>2007-10-13</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/lost/variable/</loc>
+            
+                <lastmod>2008-10-03</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/monad-tutorial/</loc>
+            
+                <lastmod>2011-05-12</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/more-curry/</loc>
+            
+                <lastmod>2007-11-01</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/multicore/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/not-curry/</loc>
+            
+                <lastmod>2007-10-09</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/nreverse/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/offside/</loc>
+            
+                <lastmod>2010-08-10</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/phillip/</loc>
+            
+                <lastmod>2010-08-10</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/pl/</loc>
+            
+                <lastmod>2019-08-06</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/pretty-print/</loc>
+            
+                <lastmod>2007-10-13</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/quickcheck/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/recurcat/</loc>
+            
+                <lastmod>2011-09-22</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/scheme/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/side-effects/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/single-assignment/</loc>
+            
+                <lastmod>2007-10-11</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/static/</loc>
+            
+                <lastmod>2007-12-23</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/stream-processing/</loc>
+            
+                <lastmod>2007-10-11</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/tagged/</loc>
+            
+                <lastmod>2007-10-14</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/tail-recursion/</loc>
+            
+                <lastmod>2007-10-09</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/test/</loc>
+            
+                <lastmod>2008-09-25</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/transformer/</loc>
+            
+                <lastmod>2007-10-11</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/type-error-2/</loc>
+            
+                <lastmod>2007-10-25</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/type-error/</loc>
+            
+                <lastmod>2007-10-09</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/type-woes/</loc>
+            
+                <lastmod>2007-10-13</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/undecidable/</loc>
+            
+                <lastmod>2008-09-25</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/unsafe/</loc>
+            
+                <lastmod>2007-10-19</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/unsafeperformio/</loc>
+            
+                <lastmod>2008-02-19</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//lambdacats.github.io/xmonad/</loc>
+            
+                <lastmod>2007-10-09</lastmod>
+            
+        </url>
+    
+</urlset>
